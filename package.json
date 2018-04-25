@@ -1,0 +1,22 @@
+{
+  "name": "movies",
+  "version": "1.0.0",
+  "description": "```js {   _id: 'uptownhr,   email: 'uptownhr@gmail.com',   profile: {     name: 'James Lee'     hometown: 'Glendale, CA'   } } ```",
+  "main": "me.js",
+  "scripts": {
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uptownhr/test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uptownhr/test/issues"
+  },
+  "homepage": "https://github.com/uptownhr/test#readme",
+  "dependencies": {
+    "vuepress": "^0.8.4"
+  }
+}
