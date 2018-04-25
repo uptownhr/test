@@ -1,7 +1,6 @@
 module.exports = {
   title: 'About James',
   description: 'From Glendora',
-  base: 'test',
   "pages": [
     {
       "path": "/z",
